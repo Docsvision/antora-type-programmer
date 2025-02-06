@@ -1,0 +1,11 @@
+name: type-programmer
+version: dev
+#start_page: ROOT:index.adoc
+#display_version: 'dev'
+title: Раздел разработчика Docsvision
+asciidoc:
+  attributes:
+    upgrade: ''
+
+nav:
+- modules/ROOT/type-programmer.adoc
