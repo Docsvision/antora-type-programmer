@@ -1,7 +1,5 @@
 name: type-programmer
-version: dev
-#start_page: ROOT:index.adoc
-#display_version: 'dev'
+version: ~
 title: Раздел разработчика Docsvision
 asciidoc:
   attributes:
