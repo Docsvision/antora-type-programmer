@@ -152,7 +152,7 @@
 ***** xref:dev@webclient:programmer:server/card-factory.adoc[]
 ***** xref:dev@webclient:programmer:server/row-factory.adoc[]
 ***** xref:dev@webclient:programmer:server/work-with-life-cycle.adoc[]
-// **** xref:dev@webclient:programmer:server/.links-description-generator.adoc[]
+// **** xref:dev@webclient:programmer:server/formation-description-links.adoc[]
 **** xref:dev@webclient:programmer:server/csp-signature-visualization.adoc[]
 **** xref:dev@webclient:programmer:server/conversion-sample.adoc[]
 **** xref:dev@webclient:programmer:server/csp-signature-visualization.adoc[]
