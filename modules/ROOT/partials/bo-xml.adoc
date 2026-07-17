@@ -1,0 +1,5 @@
+***** xref:dv6@programmer:BackOffice-Xml:Xml_NS.adoc[]
+****** xref:dv6@programmer:BackOffice-Xml:Schemas/Schemas_NS.adoc[]
+******* xref:dv6@programmer:BackOffice-Xml:Schemas/SearchParameterInfo_CL.adoc[]
+******* xref:dv6@programmer:BackOffice-Xml:Schemas/SearchParametersInfo_CL.adoc[]
+******** xref:dv6@programmer:BackOffice-Xml:Schemas/SearchParametersInfo.SearchParameterInfo_PR.adoc[]

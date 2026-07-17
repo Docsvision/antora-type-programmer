@@ -1,0 +1,7 @@
+****** xref:dv6@programmer:Platform-ObjectManager-AccessManager:AccessManager_CL.adoc[]
+******* xref:dv6@programmer:Platform-ObjectManager-AccessManager:AccessManager.SecuritySchema_PR.adoc[]
+******* xref:dv6@programmer:Platform-ObjectManager-AccessManager:AccessManager.Session_PR.adoc[]
+******* xref:dv6@programmer:Platform-ObjectManager-AccessManager:AccessManager.AccessCheck_MT.adoc[]
+******* xref:dv6@programmer:Platform-ObjectManager-AccessManager:AccessManager.CreateCustomSecureObject_MT.adoc[]
+****** xref:dv6@programmer:Platform-ObjectManager-AccessManager:ArchiveOptions_EN.adoc[]
+****** xref:dv6@programmer:Platform-ObjectManager-AccessManager:ArchiveState_EN.adoc[]

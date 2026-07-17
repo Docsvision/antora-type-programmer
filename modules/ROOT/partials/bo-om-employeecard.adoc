@@ -1,0 +1,3 @@
+****** xref:dv6@programmer:BackOffice-ObjectModel-EmployeeCard:EmployeeCard_CL.adoc[]
+******* xref:dv6@programmer:BackOffice-ObjectModel-EmployeeCard:EmployeeCard.MainInfo_PR.adoc[]
+****** xref:dv6@programmer:BackOffice-ObjectModel-EmployeeCard:EmployeeCardMainInfo_CL.adoc[]

@@ -1,0 +1,7 @@
+*** xref:dv6@programmer:external-storages:external-storages-develop.adoc[]
+**** xref:dv6@programmer:external-storages:connector-to-storage.adoc[]
+***** xref:dv6@programmer:external-storages:main-provider-class.adoc[]
+***** xref:dv6@programmer:external-storages:provider-gui.adoc[]
+***** xref:dv6@programmer:external-storages:load-storage-connector.adoc[]
+***** xref:dv6@programmer:external-storages:connector-sample.adoc[]
+**** xref:dv6@programmer:external-storages:storage-rule.adoc[]

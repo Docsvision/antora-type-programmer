@@ -1,0 +1,8 @@
+***** xref:dv6@programmer:Platform-Data:Data_NS.adoc[]
+****** xref:dv6@programmer:Platform-Data:Metadata/Metadata_NS.adoc[]
+******* xref:dv6@programmer:Platform-Data:Metadata/CardModel/CardModel_NS.adoc[]
+******** xref:dv6@programmer:Platform-Data:Metadata/CardModel/Card_CL.adoc[]
+******** xref:dv6@programmer:Platform-Data:Metadata/CardModel/CardSection_CL.adoc[]
+******** xref:dv6@programmer:Platform-Data:Metadata/CardModel/SectionField_CL.adoc[]
+******* xref:dv6@programmer:Platform-Data:Metadata/IMetadataProvider_IN.adoc[]
+****** xref:dv6@programmer:Platform-Data:DatabaseCommand_CL.adoc[]

@@ -1,0 +1,4 @@
+****** xref:dv6@programmer:BackOffice-ObjectModel-Signature:ScriptingScript_CL.adoc[]
+****** xref:dv6@programmer:BackOffice-ObjectModel-Signature:SignatureLabel_CL.adoc[]
+****** xref:dv6@programmer:BackOffice-ObjectModel-Signature:SignatureList_CL.adoc[]
+****** xref:dv6@programmer:BackOffice-ObjectModel-Signature:SignatureType_EN.adoc[]

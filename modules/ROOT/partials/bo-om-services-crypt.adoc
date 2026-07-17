@@ -1,0 +1,6 @@
+******* xref:dv6@programmer:BackOffice-ObjectModel-Services-ICryptService:ICryptService_IN.adoc[]
+******** xref:dv6@programmer:BackOffice-ObjectModel-Services-ICryptService:ICryptService.AddCryptAccount_MT.adoc[]
+******** xref:dv6@programmer:BackOffice-ObjectModel-Services-ICryptService:ICryptService.DecryptFile_MT.adoc[]
+******** xref:dv6@programmer:BackOffice-ObjectModel-Services-ICryptService:ICryptService.EncryptFile_MT.adoc[]
+******** xref:dv6@programmer:BackOffice-ObjectModel-Services-ICryptService:ICryptService.RemoveCryptAccount_MT.adoc[]
+******** xref:dv6@programmer:BackOffice-ObjectModel-Services-ICryptService:ICryptService.RemoveEncryption_MT.adoc[]

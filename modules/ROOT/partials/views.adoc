@@ -1,0 +1,8 @@
+*** xref:dv6@programmer:views:views.adoc[]
+**** xref:dv6@programmer:views:data-description.adoc[]
+**** xref:dv6@programmer:views:formating-description.adoc[]
+**** xref:dv6@programmer:views:get-data.adoc[]
+*** xref:dv6@programmer:views:links.adoc[]
+*** xref:dv6@programmer:views:download-mode.adoc[]
+*** xref:dv6@programmer:views:delayed-changes.adoc[]
+*** xref:dv6@programmer:views:event-logs.adoc[]
